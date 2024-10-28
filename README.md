@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mesut erne ata</h1>
+<h1 align="center">Hi 👋, I'm Mesut Eren Ata</h1>
 <h3 align="center">Hello👋🏻, my name is Mesut Eren. I am 21 years old and I specialize in cybersecurity. I am still working on improving myself and continuing my studies in the field of cybersecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mesuterenata0&label=Profile%20views&color=0e75b6&style=flat" alt="mesuterenata0" /> </p>
